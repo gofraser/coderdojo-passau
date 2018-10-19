@@ -2,9 +2,9 @@
 title: CoderDojo Passau
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 7 und 17 Jahren. Diese Seite ist für die CoderDojos Linz.
+  Die CoderDojo Gemeinschaft organisiert Programmierclubs für Kinder und Jugendliche zwischen 7 und 17 Jahren. Diese Seite ist für die CoderDojos Passau.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://coderdojo-linz.github.io" # the base hostname & protocol for your site
+url: "https://gofraser.github.io/coderdojo-passau/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
